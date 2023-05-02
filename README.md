@@ -42,6 +42,5 @@ SoapUI, Chrome DevTools.
 Итог №1
 Итог №2
 Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
+Email: e.kezina1101@gmail.com
+

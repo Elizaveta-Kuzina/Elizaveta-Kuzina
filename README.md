@@ -10,8 +10,8 @@
 
 ## Навыки и технологии
 
-`Jira`
-`Qase.io` 
+`Jira`,
+`Qase.io`, 
 `SQL` 
 `Postman`
 `Fiddler` 

@@ -49,7 +49,7 @@
 
 #### *Ссылка на проект https://elizavetaku.atlassian.net/l/cp/8uzC5eAf*
 
-#### Л-огин kuzina7007482@yandex.ru
+#### Логин kuzina7007482@yandex.ru
 #### Ппароль- vaulina110188
 
 

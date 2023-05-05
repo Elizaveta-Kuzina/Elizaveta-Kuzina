@@ -12,7 +12,9 @@
 
 `Jira`
 `Qase.io`
-,SQL, Postman,Fiddler, Swagger, Trello,
+`SQL`,
++ Postman,
++ Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 
